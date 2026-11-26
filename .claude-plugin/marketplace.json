@@ -1,8 +1,10 @@
 {
   "name": "no-ai-design-slop",
-  "description": "A passive design quality gate that catches and removes generic AI design defaults, incoherent visual choices and UI defects without flattening your art direction.",
   "owner": {
     "name": "zyadhajaji"
+  },
+  "metadata": {
+    "description": "A passive design quality gate that catches and removes generic AI design defaults, incoherent visual choices and UI defects without flattening your art direction."
   },
   "plugins": [
     {
