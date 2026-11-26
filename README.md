@@ -1,5 +1,7 @@
 # No AI Design Slop
 
+> **Now part of [Forge Skills](https://github.com/zyadhajaji/forge-skills).** This skill lives on as `slop-gate`, which adds a zero-dependency audit script that checks accessibility, motion, performance and taste in your code. Install the suite for the latest version. This repo stays available but will not be updated.
+
 No AI Design Slop is an agent skill that acts as a passive design quality gate. While your coding agent builds or edits a website, app or mockup, it catches generic AI design defaults, incoherent visual choices and real UI defects before they compound, and it does this without flattening your art direction into a neutral template.
 
 ## How it works
