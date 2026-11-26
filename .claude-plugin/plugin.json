@@ -1,0 +1,29 @@
+{
+  "name": "no-ai-design-slop",
+  "description": "A passive design quality gate that catches and removes generic AI design defaults, incoherent visual choices and UI defects without flattening your art direction.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zyadhajaji"
+  },
+  "homepage": "https://github.com/zyadhajaji/no-ai-design-slop",
+  "repository": "https://github.com/zyadhajaji/no-ai-design-slop",
+  "license": "MIT",
+  "keywords": [
+    "ai-slop",
+    "design-review",
+    "ui-design",
+    "ux",
+    "design-system",
+    "design-quality",
+    "accessibility",
+    "wcag",
+    "web-design",
+    "frontend",
+    "agent-skills",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "cursor",
+    "ai-agents"
+  ]
+}
